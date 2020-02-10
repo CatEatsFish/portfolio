@@ -2,12 +2,17 @@
 
 body{
 font-family: 'Nanum Myeongjo', serif;
+ backround-image: url("https://github.com/CatEatsFish/portfolio/blob/master/YYY.jpg?raw=true");
+ backround-repeat: no-repeat;
+ backround-position: center;
+ backround-size: cover;
 }
 
 h1{
  font-style: italic;
   font-size: 30px:
   color: #3A98D1
+  botder: 5px ridge blue:
 }
 
 p {
