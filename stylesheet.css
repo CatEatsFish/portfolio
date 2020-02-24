@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo&display=swap');
 
+<html>
+ <head>
+   <title> Page 2 </title>
+  <link rel = "stylesheet" href = "stylesheet2.css>
+
+
 body{
 font-family: 'Nanum Myeongjo', serif;
  backround-image: url("https://github.com/CatEatsFish/portfolio/blob/master/YYY.jpg?raw=true");
@@ -16,9 +22,32 @@ h1{
  font-style: italic;
   font-size: 30px:
   color: #3A98D1
-  botder: 5px ridge blue:
+  border: 5px ridge blue:
 }
 
 p {
   color: #3C75E6
 }
+
+ .navbar {
+  overflow: hidden;
+  backround-color: #2331FF;
+ }
+ 
+ .navbar a {
+   float: left
+     display: black;
+  color: #FFFFFF ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+ }
+ 
+ .navbar a:hover {
+  backround-color: #0017FF
+   color: #000000;
+ }
+ 
+ .navbar a.active {
+ 
