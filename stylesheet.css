@@ -18,13 +18,24 @@ font-family: 'Nanum Myeongjo', serif;
   fort-size: 75px
    color: #2C2ED8:
 
-h1{
- font-style: italic;
+ h1{
+  font-style: italic;
   font-size: 30px:
   color: #3A98D1
-  border: 5px ridge blue:
+  border: 5px ridge blue;
+  color: blue;
+  animation-name: animationA;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 }
-
+ 
+@keyframes animationA {
+  0% {color: blue;} 
+ 50% {color: #DA1E1E;}
+ 100% {color: blue;}
+ 
+ }
+ 
 p {
   color: #3C75E6
 }
