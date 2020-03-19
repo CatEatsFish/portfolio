@@ -13,7 +13,15 @@ font-family: 'Cairo', serif;
 .bigheading {
   fort-size: 75px
    color: #2C2ED8:
+}
 
+}
+   
+
+.smash {
+ font-size: 75px;
+ color: #xxxxxxx
+  
  h1{
   font-style: italic;
   font-size: 30px:
@@ -57,4 +65,7 @@ p {
  }
  
  .navbar a.active {
+   background-color: #FFFFFF
+    color: Black;
+ }
  
