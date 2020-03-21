@@ -4,10 +4,10 @@
 
 body{
 font-family: 'Cairo', serif;
- backround-image: url("https://github.com/CatEatsFish/portfolio/blob/master/YYY.jpg?raw=true");
- backround-repeat: no-repeat;
- backround-position: center;
- backround-size: cover;
+ background-image: url("https://github.com/CatEatsFish/portfolio/blob/master/YYY.jpg?raw=true");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
 }
 
 .bigheading {
