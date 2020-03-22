@@ -49,22 +49,22 @@ p {
  }
  
  .navbar a {
-   float: left
-     display: black;
-  color: #FFFFFF ;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 16px;
+   float: left;
+   display: block;
+   color: #FFFFFF ;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 16px;
  }
  
  .navbar a:hover {
-  backround-color: #0017FF
+  backround-color: #0017FF;
    color: #000000;
  }
  
  .navbar a.active {
-   background-color: #FFFFFF
+   background-color: #FFFFFF;
     color: Black;
  }
  
