@@ -24,10 +24,9 @@ font-family: 'Cairo', serif;
   
  h1{
   font-style: italic;
-  font-size: 30px:
-  color: #3A98D1
-  border: 5px ridge blue;
-  color: blue;
+  font-size: 50px:
+  color: white
+  border: 5px ridge white;
   animation-name: animationA;
   animation-duration: 4s;
   animation-iteration-count: infinite;
